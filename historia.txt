@@ -2,6 +2,8 @@ este es un archivo de prueba
 
 master 1
 
+master 2
+
 para realizar la actividad
 
 nada importante y que mas coloco
