@@ -1,5 +1,6 @@
 este es un archivo de prueba
 
+master 1
 
 para realizar la actividad
 
